@@ -2,6 +2,8 @@
 
 This repo is a click counter that simply counts how many times a button has been clicked. Every click is registered in a database, and the client auto-refreshes every 5 seconds
 
+This tutorial was a live stream given at Sunhacks 2020. The recording is here https://youtu.be/_Yvkc1CTGXc
+
 ## Running
 
 This repo has two components: the client, and the server. You should run both at the same time.
